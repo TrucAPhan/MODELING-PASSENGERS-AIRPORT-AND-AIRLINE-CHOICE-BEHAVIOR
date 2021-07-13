@@ -25,7 +25,7 @@ Two international airports in Seoul Metropolitan Area
   2. Process Missing Values
   3. Variable Recategorization/Regroup
   4. Process Outliers
-  5. Variables Selection according to the Correlation Matrix Forward Method, and Holdout Method
+  5. Variables Selection according to the Correlation Matrix, Forward Method, and Holdout Method
 - Modeling:
   1. Logistic Model
   2. Decision Tree Model
