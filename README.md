@@ -1,4 +1,4 @@
-# Modeling-Passengers-Airport-and-Airline-Choice-Behaviour
+# Modeling Passengers Airport and Airline Choice Behaviour
 This is my academic team project. Due to privacy concerns, data, codes, and reports will not be published.
 
 ## Problem description
