@@ -18,5 +18,26 @@ Two international airports in Seoul Metropolitan Area
     - Korean Air (KE), Asiana Air (OZ), Korean LCC, Foreign Carriers
   - Socio-demographic: age, gender, occupation, income, etc
   - Alternative-Specific : flight information, travel time, mode of transport, etc
-![image](https://user-images.githubusercontent.com/63483928/125386123-97e22080-e350-11eb-8f6d-b75a22de5500.png)
+
+## Data Mining Procedures Using Python 
+- EDA:
+  1. Clean Redundant Data
+  2. Process Missing Values
+  3. Variable Recategorization/Regroup
+  4. Process Outliers
+  5. Variables Selection according to the Correlation Matrix Forward Method, and Holdout Method
+- Modeling:
+  1. Logistic Model
+  2. Decision Tree Model
+- Model Evaluation
+  - Airport Choice Model: Logit model performance is slightly better than that in Tree model, yielding the following results:
+    - Accuracy: 83.97%
+    - Precision: 77.91%
+    - Recall: 97.1%
+  - Airline Choice Model: Similar to airport prediction, the prediction result of Logit model for airlines choice is also slightly better compared to the Tree model -- see results below:
+    - Accuracy: 71.54%  
+    - Precision: 73.04 % 
+    - Recall: 93.33 % 
+- Recommendation: We recommend using Logit model for both airport and airline selection due to high sensitivity rate.
+
 
